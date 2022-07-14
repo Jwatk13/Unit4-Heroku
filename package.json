@@ -1,0 +1,26 @@
+{
+  "name": "unit4-heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jwatk13/Unit4-Heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jwatk13/Unit4-Heroku/issues"
+  },
+  "homepage": "https://github.com/Jwatk13/Unit4-Heroku#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  }
+}
